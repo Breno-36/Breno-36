@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1  align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=00A642FF&text=Breno%20Rosa&section=header&fontColor=ffffff&fontAlignY=39&animation=blink">
+</h1>
 
-<!--
-**Breno-36/Breno-36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=28&pause=1000&color=00A642&center=true&vCenter=true&width=435&lines=Support+TI+%7C+Infrastructure+">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+<img align="right" height="190" src="https://cdn.pixabay.com/animation/2024/05/16/21/45/21-45-34-3_512.gif"> 
+
+
+Apaixonado por tecnologia e focado em entregar soluções inteligentes em infraestrutura de TI. Atuo como Suporte Técnico N1/N2, com experiência em ambientes corporativos, redes, cloud computing e monitoramento. Estudo Redes de Computadores no SENAI e possuo certificações nas áreas de redes, cloud e suporte técnico. Sempre em busca de estabilidade, performance e evolução constante.
+
+<br>
+<br>
+<br>
+
+## Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=azure,aws,github,grafana,linux,windows,nginx,arduino">
+</p>
+<p align="center">
+
+</p>
